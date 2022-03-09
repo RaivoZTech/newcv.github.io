@@ -1,0 +1,37 @@
+*{
+    background-color: bisque;
+    
+}
+img{
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+.contacts{
+    display: block;
+    margin-left:1%;
+}
+h1{
+    color:blue;
+}
+
+h3{
+    color:green;
+}
+
+h4{
+    margin-left:2%;
+    font-weight:bolder ;
+}
+.par1{
+    margin-left: 1%;
+    
+}
+.par2{
+    margin-left: 1%;
+}
+
+
+.par3{
+    margin-left: 1%;
+}
